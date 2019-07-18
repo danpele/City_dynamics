@@ -1,0 +1,22 @@
+Name of QuantLet : City_dynamics
+
+Published in : Comparative city cluster dynamics
+
+Description : 'This quantlet shows the comparative city cluster dynamics based on the the Global Power City Index 
+		(GPCI Index ) and its dimensions and the Safe City Index and its dimensions for the years 2015 and 2017.'
+
+Keywords : 
+ - smart city
+ - Global Power City Index 
+ - Safe City Index
+ - Machine Learning
+
+ 
+Author : Daniel Traian Pele and Miruna Mazurencu-Marinescu-Pele
+
+
+Submitted : Thu, 18 July 2019 by Daniel Traian Pele
+
+Datafiles : 'orase_2015.csv, orase_2017.csv'
+
+
